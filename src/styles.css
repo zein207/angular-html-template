@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+svg path,
+svg rect{
+  fill: black;
+}
+
+.elemento-center{
+    column-span: all;
+    text-align: center
+}
